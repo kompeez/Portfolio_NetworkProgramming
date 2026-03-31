@@ -8,6 +8,7 @@
 | Assignment 2 | [Assignment 2](https://docs.google.com/document/d/1-VBg9gZ2zCwtwIxjSNV8TfUDYWQqNzexXe3N8wEM9_I/edit?usp=sharing) |
 | Assignment 3 | [Assignment 3](https://drive.google.com/file/d/1rHt9Q-PAWestVuhhcuv55bLa3ayvSQ-6/view?usp=sharing) |
 | Assignment 4 | [Assignment 4](https://docs.google.com/document/d/10fv7waVJCwUqtnqLn7t-aQZTleI-V_D-TTqVJvD9qE8/edit?usp=sharing) |
+|10 weeks|[Github]()|
 # Group Activities
 | Lab | Link |
 | :-: | :-: |
@@ -19,7 +20,7 @@
 # Project
 [Github_Psychic_network]()
 # Certificate
-![]()
+![](https://github.com/user-attachments/assets/6b211d5d-d8f5-45ba-8e5c-c30caa712702)
 # Checkpoint Exam
 ![](https://github.com/user-attachments/assets/1aad5baa-56cf-41de-bdd3-42b0074916e4)
 
