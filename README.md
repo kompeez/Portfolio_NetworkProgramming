@@ -1,5 +1,6 @@
 # Portfolio_NetworkProgramming
 ส่งงาน CP352005
+กรมภัฏ พิริยะ 673380262-4 sec.2
 # Personal Assignment
 | Assignment | Link |
 | :-: | :-: |
@@ -18,7 +19,7 @@
 # Project
 [Github_Psychic_network]()
 # Certificate
-![](https://github.com/user-attachments/assets/1aad5baa-56cf-41de-bdd3-42b0074916e4)
-# Checkpoint Exam
 ![]()
+# Checkpoint Exam
+![](https://github.com/user-attachments/assets/1aad5baa-56cf-41de-bdd3-42b0074916e4)
 
