@@ -19,7 +19,7 @@ kompat.p@kkumail.com
 | Lab 4 | [Lab 4](https://docs.google.com/document/d/1CQf0kG6XvI62JaOYNEf2gGXoxcYyD4_H0avWxlyg5-A/edit?usp=sharing) |
 | Lab 5 | [Lab 5](https://docs.google.com/document/d/1cC_GqyKHi5rjmow1L0a_TL46COsZmirvbwx9wAmVJjc/edit?tab=t.0) |
 # Project
-[Github_Psychic_network](https://github.com/kompeez/NetworkProject-PsychicNetwork)
+[Github_Psychic_network](https://github.com/kittithat67/psychic-network)
 # Certificate
 ![](https://github.com/user-attachments/assets/6b211d5d-d8f5-45ba-8e5c-c30caa712702)
 # Checkpoint Exam
